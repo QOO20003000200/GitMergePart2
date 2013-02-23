@@ -25,4 +25,8 @@ public class Student {
 		System.out.println(name + " " + grade + "%.");
 	}
 
+	public void main(String args[]) {
+		Student me = new Student("Brandon", 80);
+		me.printGrade();
+	}
 }
