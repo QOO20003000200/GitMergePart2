@@ -23,11 +23,7 @@ public class TheMotivator {
 	
 	public void createEvents() {
 		events.add("We're going to a movie on Saturday");
-<<<<<<< HEAD
 		events.add("Study session on TODAY - Jim's house");
-=======
-		events.add("Study session on TODAY - Jim's house");
->>>>>>> f19d4bd09ad32b4ecd8cf778b162cbeb3409bc97
 	}
 	
 	public static void main(String[] args) {
