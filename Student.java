@@ -17,6 +17,10 @@ public class Student {
 		return name;
 	}
 	
+	public void printName(){
+		System.out.println("Name:" + name);
+	}
+	
 	public void printGrade() {
 		System.out.println(name + " " + grade + "%.");
 	}
