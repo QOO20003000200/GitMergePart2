@@ -9,7 +9,7 @@ public class Student {
 		this.name = name;
 	}
 
-	public int getGrade() {
+	public int getGraded() {
 		return grade;
 	}
 
